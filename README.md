@@ -14,3 +14,6 @@ commit 2
 
 commit 3
 hello
+
+rebase test1
+rebase test2
